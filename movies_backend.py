@@ -1,3 +1,4 @@
+# Some text
 import xlrd
 import sqlite3
 dbname = 'movies.db'
